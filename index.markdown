@@ -4,4 +4,4 @@ layout: home
 
 # Introduction
 This static site main purpose is to document my inception project and everything was done in it.  
-The website was built using `Jekyll` framework with `Just-the-Docs` theme.
+On the left you will find navigation menu which includes each topic about the project from the beginning to the end.
