@@ -9,6 +9,9 @@ theme: just-the-docs
 
 color_scheme: dark
 
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.png"
+
 sass:
   quiet_deps: true
   silence_deprecations: ['import']
